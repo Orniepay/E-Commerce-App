@@ -1,3 +1,3 @@
-# Job Board App
-With Next.js, React, Tailwind, MongoDB and Stripe
+# Fullstack Job Board App
+With Next.js, React.js, Tailwind and MongoDB
 
