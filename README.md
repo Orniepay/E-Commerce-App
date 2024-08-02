@@ -1,2 +1,2 @@
 # E-Commerce-App 
-with Next.js, React, Tailwind, MongoDB and Stripe
+With Next.js, React, Tailwind, MongoDB and Stripe
